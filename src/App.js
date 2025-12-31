@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          App.js sts edits 20251231 earliest.
+          App.js sts edits 20251231 earlier.
         </p>
         <a
           className="App-link"
