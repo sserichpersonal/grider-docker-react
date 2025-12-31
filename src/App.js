@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          App.js sts edits 20251231 early (new repo feature branch).
+          App.js sts edits 20251231 (test restore of Frontend2-env).
         </p>
         <a
           className="App-link"
