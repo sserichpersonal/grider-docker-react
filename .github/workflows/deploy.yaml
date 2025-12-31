@@ -1,4 +1,4 @@
-name: Deploy Frontend
+name: Deploy Frontend2
 on:
   push:
     branches:
@@ -23,8 +23,8 @@ jobs:
           aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
 # Change application_name, environment_name, existing_bucket_name, and region to the values used by your AWS Elastic Beanstalk environment.
-          application_name: frontend
-          environment_name: Frontend-env
+          application_name: frontend2
+          environment_name: Frontend2-env
           existing_bucket_name: elasticbeanstalk-us-east-2-901907391748
           region: us-east-2
           version_label: ${{ github.sha }}
